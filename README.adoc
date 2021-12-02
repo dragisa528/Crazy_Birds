@@ -1,6 +1,8 @@
 = Angry Birds clone
 
-image:./icon.png[]
+image:./background.png[]
 
+[[unity version]]
 ===Unity version
+
 5.6.5f1
