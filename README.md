@@ -1,5 +1,5 @@
 # Angry Birds clone
 
-image:./background.png[]
+image:./icon.png[]
 
 Unity version:5.6.5f1
